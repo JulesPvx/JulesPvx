@@ -13,3 +13,10 @@ A common french student working on some personal projects.
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Socials
+<p align="left">
+
+<a href = "https://www.instagram.com/jules.pvx/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
