@@ -18,8 +18,13 @@ A common french student working on some personal projects.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&theme=github_dark" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesPvx&layout=compact&theme=github_dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JulesPvx" />
 </a>
 
 ## Socials
