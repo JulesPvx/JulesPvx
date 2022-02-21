@@ -12,4 +12,4 @@ A common french student working on some personal projects.
 </p>
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesPvx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
