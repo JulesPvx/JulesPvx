@@ -24,7 +24,7 @@ A common french student working on some personal projects.
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JulesPvx" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JulesPvx&theme=react-dark" />
 </a>
 
 ## Socials
