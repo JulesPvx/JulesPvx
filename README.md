@@ -2,7 +2,7 @@
 A common french student working on some personal projects.
 
 ## Working on Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesPvx&repo=lycee-connecte-app&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 <p align="left"> 
@@ -15,10 +15,12 @@ A common french student working on some personal projects.
 </p>
 
 ## Stats
-[![Visits Badge](https://badges.pufler.dev/visits/JulesPvx/git-badges)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/JulesPvx)](https://badges.pufler.dev)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesPvx&layout=compact&theme=github_dark" />
+</a>
 
 ## Socials
 <p align="left">
