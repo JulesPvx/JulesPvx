@@ -2,7 +2,7 @@
 A common french student working on some personal projects.
 
 ## Working on Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesPvx&repo=lycee-connecte-app&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesPvx&repo=lycee-connecte-app&theme=github_dark)](https://github.com/JulesPvx/lycee-connecte-app)
 
 ## Languages
 <p align="left"> 
