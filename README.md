@@ -1,6 +1,9 @@
 ## About Me
 A common french student working on some personal projects.
 
+## Working on Projects
+
+
 ## Languages
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -12,6 +15,9 @@ A common french student working on some personal projects.
 </p>
 
 ## Stats
+[![Visits Badge](https://badges.pufler.dev/visits/JulesPvx/git-badges)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/JulesPvx)](https://badges.pufler.dev)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
