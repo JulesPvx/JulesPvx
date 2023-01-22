@@ -20,8 +20,6 @@ A common french student working on some personal projects.
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="JulesPvx's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesPvx&layout=compact&theme=github_dark&hide_border=true" /> |
 | ------------- | ------------- |
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=JulesPvx&theme=react-dark" />
-
 ## Socials
 <p align="left">
 
