@@ -2,7 +2,7 @@
 A common french student working on some personal projects.
 
 ## Working on Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesPvx&repo=lycee-connecte-app&theme=github_dark)](https://github.com/JulesPvx/lycee-connecte-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesPvx&repo=lycee-connecte-app&theme=github_dark)](https://github.com/Angel-Studio/Material-You-Dynamic-Island)
 
 ## Languages
 <p align="left"> 
