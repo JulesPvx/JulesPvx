@@ -1,5 +1,5 @@
 ## About Me
-A common french student working on some personal projects.
+A french student :D
 
 ## Working on Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Angel-Studio&repo=Material-You-Dynamic-Island&theme=github_dark)](https://github.com/Angel-Studio/Material-You-Dynamic-Island)
