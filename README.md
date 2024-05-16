@@ -1,5 +1,3 @@
-#### ✨[Freelance Account](https://www.github.com/Angel-Studio)
-
 ## About Me
 A french student :D
 
