@@ -4,8 +4,8 @@
 A french student :D
 
 ## Working on Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Angel-Studio&repo=Material-You-Dynamic-Island&theme=github_dark)](https://github.com/Angel-Studio/Material-You-Dynamic-Island)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Angel-Studio&repo=SoundTap&theme=github_dark)](https://github.com/Angel-Studio/SoundTap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Angel-Studio&repo=Material-You-Dynamic-Island&theme=github_dark)](https://github.com/Angel-Studio/Material-You-Dynamic-Island)
 
 ## Languages
 <p align="left"> 
