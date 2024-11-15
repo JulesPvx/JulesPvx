@@ -16,11 +16,6 @@ A french student :D
     <a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
 </p>
 
-## Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulesPvx&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="JulesPvx's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesPvx&layout=compact&theme=github_dark&hide_border=true" /> |
-| ------------- | ------------- |
-
 ## Socials
 <p align="left">
 
